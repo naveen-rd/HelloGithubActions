@@ -49,4 +49,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: naveeninsomnia/naveenrd:latest
+        tags: naveeninsomnia/githubactionsapp:latest
